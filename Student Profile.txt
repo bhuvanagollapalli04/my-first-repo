@@ -1,0 +1,27 @@
+Student Profile:
+
+SUC ID	        : 2358250082
+
+Name		: Gollapalli Bhuvana Pranathi
+
+Gender		: Female
+
+Date of Birth   : 23-02-2006
+
+Email		: gollapallibhuvanapranathi@gmail.com
+
+Phone		: +919849445865
+
+Address		: Kovvuru, Kakinada Rural, Kakinada district, Andhra Pradesh
+
+Course		: BCA (Computer Science)
+
+Year/Semester   : 3rd Year / 5th Semester
+
+Roll Number	: 21
+
+Admission Date  : 15-07-2023
+
+Guardian Name   : Gollapalli Veera Prasad
+
+Guardian Contact: +919912284865
